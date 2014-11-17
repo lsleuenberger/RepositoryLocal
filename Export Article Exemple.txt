@@ -1,0 +1,6 @@
+`Désignation	`PrixAchat	`PrixVenteCatég1	`CompteCrédit	`CompteDébit	`DésignationSaisie	`DésignationLigne
+"'Dwich"\"'Dwich"	12.00	18.50	"3200 Ventes de marchandises article A"	"4200 Achats de marchandises A"	"'Dwich"	0\1
+"Jambon"\"Jambon"	2.00	4.00	"3200 Ventes de marchandises article A"	"4200 Achats de marchandises A"	"Jambon"	0\1
+"Salami"\"Salami"	1.00	3.50	"3200 Ventes de marchandises article A"	"4200 Achats de marchandises A"	"Salami"	0\1
+"Fromage"\"Fromage"	3.20	4.00	"3200 Ventes de marchandises article A"	"4200 Achats de marchandises A"	"Fromage"	0\1
+"Coca-Cola"\"Coca-Cola"	2.50	5.00	"3200 Ventes de marchandises article A"	"4200 Achats de marchandises A"	"Coca-Cola"	0\1
